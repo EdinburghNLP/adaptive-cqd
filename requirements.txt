@@ -1,0 +1,11 @@
+aim
+six
+tensorboardX
+tqdm
+numpy
+torch
+torchvision
+parameterized
+pytest
+pytest-xdist
+pytest-forked
